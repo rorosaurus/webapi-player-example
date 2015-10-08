@@ -1,1 +1,7 @@
 *.log
+.idea/workspace.xml
+.idea/.name
+.idea/misc.xml
+.idea/webapi-player-example.iml
+.idea/modules.xml
+.idea/vcs.xml
