@@ -8,7 +8,7 @@
 		var REDIRECT_URI = '';
 
 		if (location.host == 'localhost:8000') {
-			CLIENT_ID =	'409f070cb44945d9a85e9b4ad8fa3bf1';
+			CLIENT_ID =	'47324a3f3770445fa22f3fe44d5c3eae';
 			REDIRECT_URI = 'http://localhost:8000/callback.html';
 		} else {
 			CLIENT_ID = '9714921402b84783b2a207f1b6e82612';
